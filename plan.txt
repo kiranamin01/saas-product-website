@@ -1,0 +1,12 @@
+Body - Black 
+- NAV - Logo , feature , pricing , login , btn 
+- hero section - left right
+
+left => product rank , product rank info 
+        hero-title , hero-title-info
+        2 btn - gradient , transparent btn
+        customer review 
+
+right => 2 video preview ( 3 x 2 )
+
+- DAY 1 - 

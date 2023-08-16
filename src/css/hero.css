@@ -1,3 +1,6 @@
+
+
+
 :root {
     --font-gray : #f3f4f6
 }
@@ -67,9 +70,10 @@
 /* ---------- HERO LEFT ------------------------ */
 
 #hero__container {
-    width: 100%;
+    width: 100vw;
     height: 85vh;
     background-color: black;
+    display: flex;
 }
 
 
@@ -82,6 +86,8 @@
     margin-left: 6rem;
     padding-left: 2rem;
     padding-top: 3rem;
+
+    margin: none;
 
     display: flex;
     flex-direction: column;
@@ -100,4 +106,31 @@
 
 
 
+}
+
+
+/* -------------------- HERO RIGHT -------------------- */
+
+#hero__right_section {
+
+    display: flex;
+    background-color: red;
+    width: 60vw;
+    height: 85vh;
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+hero__right_section-videotab1> video {
+    padding: 1rem 1rem 1rem 1rem ;
+    gap: 10rem;
+}
+
+
+video {
+    gap: 5rem;
 }

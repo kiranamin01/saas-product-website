@@ -1,5 +1,6 @@
 import React from 'react'
 import '../css/hero.css';
+// import HeroVideoTab from './HeroVideoTab'; 
 
 const Hero = () => {
   return (
@@ -28,7 +29,22 @@ const Hero = () => {
             </div>    
 
         </div>
-        <div id="hero__right-section"></div>
+        <div id="hero__right_section">
+            <div className="hero__right_section-videotab1">
+                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+
+                
+             </div>
+                <div className="hero__right_section-videotab2">
+                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                </div>
+
+        </div>
 
     </div>
     </>

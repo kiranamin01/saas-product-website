@@ -114,23 +114,36 @@
 #hero__right_section {
 
     display: flex;
-    background-color: red;
+    background-color: black;
     width: 60vw;
     height: 85vh;
 
-    justify-content: center;
     align-items: center;
+    justify-content: center;
 
 
 }
 
+#hero__right_section_video {
+    margin-left: 4rem;
+    margin-bottom: 2.8rem;
+    margin-top: 20px;
 
-hero__right_section-videotab1> video {
-    padding: 1rem 1rem 1rem 1rem ;
-    gap: 10rem;
+    border-radius: 10px;
+
+    height: 200px;
+    width: 360px;
+
 }
 
+#hero__right_section_video-2nd {
+    margin-left: 4rem;
+    margin-bottom: 2.8rem;
+    margin-top: 50px;
 
-video {
-    gap: 5rem;
+    border-radius: 10px;
+
+    height: 200px;
+    width: 360px;
+
 }

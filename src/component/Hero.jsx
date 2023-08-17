@@ -31,17 +31,17 @@ const Hero = () => {
         </div>
         <div id="hero__right_section">
             <div className="hero__right_section-videotab1">
-                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
-                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
-                <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+
+                <video id='hero__right_section_video'controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                <video id='hero__right_section_video'controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                <video id='hero__right_section_video'controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
 
                 
              </div>
                 <div className="hero__right_section-videotab2">
-                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
-                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
-                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
-                    <video controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video id='hero__right_section_video-2nd'controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video id='hero__right_section_video' controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
+                    <video id='hero__right_section_video' controls autoPlay src="../files/demo_vid_01_optim - 02.mp4"></video>
                 </div>
 
         </div>

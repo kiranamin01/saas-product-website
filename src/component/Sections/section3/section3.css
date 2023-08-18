@@ -26,5 +26,12 @@
 }
 
 #heading>p {
-    margin-left: 100px;
+    margin: 30px 250px ;
+    margin-left: 450px;
+    /* background-color: aquamarine; */
+    width: 40rem;
+    height: auto;
+
 }
+
+

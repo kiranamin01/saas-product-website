@@ -1,3 +1,5 @@
 - DAY 1 _ NAVBAR , HERO SECTION - NON TAILWIND CSS Build
 - DAY 2 _ Added HERO RIGHT SECTION -
+- DAY 3 - Added Section page - 2,3 -
+- DAY 4 - Added Section page - 3,4,5 -
 - 
